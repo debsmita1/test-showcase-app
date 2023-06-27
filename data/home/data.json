@@ -1,6 +1,6 @@
 [
   {
-    "title": "COMMUNITY",
+    "title": "COMMUNITY-TEST",
     "isExpanded": false,
     "links": [
       {
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "title": "DEVELOPER TOOLS",
+    "title": "DEVELOPER TOOLS TEST",
     "isExpanded": true,
     "links": [
       {
