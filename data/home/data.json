@@ -1,11 +1,11 @@
 [
   {
     "title": "COMMUNITY-TEST",
-    "isExpanded": false,
+    "isExpanded": true,
     "links": [
       {
         "iconUrl": "/homepage/icons/icons8/web.png",
-        "label": "Website",
+        "label": "Websiteee",
         "url": "https://janus-idp.io/community"
       },
       {
